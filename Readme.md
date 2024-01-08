@@ -13,7 +13,7 @@
 **Si vous avez un problème avec le skin n'hésitez pas a envoyez un message sur mon discord (yasunaii)**
 
 ## [anny v1 [ML] (coolrmsil.com)](https://drive.google.com/file/d/1nWnATTVcmimFSZC0gKa4G_2UEq2DZ3uO/view?usp=sharing)
-![](https://i.imgur.com/wWop5IR.png)
+[![Osu! Skin image](https://i.imgur.com/wWop5IR.pn)](https://drive.google.com/file/d/1nWnATTVcmimFSZC0gKa4G_2UEq2DZ3uO/view?usp=sharing)
 
 ## [『BlooMoon Re;Done』 - Reedkussy ](https://drive.google.com/file/d/12uV9MFDR2JWv3TNjCmZqBuIQx5uAYv-o/view?usp=sharing)
 ![](https://i.imgur.com/vDV2Ikq.jpg)
