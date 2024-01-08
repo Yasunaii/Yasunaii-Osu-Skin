@@ -1,7 +1,8 @@
 # Yasunaii Osu!(Lazer) Skin folder ! 
 
 **Ce doccument regroupe tous mes skin préfèrer. Ceux avec lequelle je me sens le plus a l'aise.**
-**Étend donné que mes gouts et les dévouverte évolue ce readme sera amenez a évoluez ! **
+
+**Étend donné que mes gouts et les dévouverte évolue ce readme sera amenez a évoluez !**
 
 
 * [**Oni korp Discord**](https://discord.gg/4QqVaTfXy2)
