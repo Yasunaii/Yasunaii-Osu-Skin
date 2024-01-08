@@ -12,7 +12,7 @@
 **Si vous avez un problème avec le skin n'hésitez pas a envoyez un message sur mon discord (yasunaii)**
 
 ## [ ___ Arknights Ch_en v3 (Inflique)](https://drive.google.com/file/d/1_J6n-mtnyiuA9QjPN88lgjDOYnWgahDv/view?usp=sharing)
-![](hhttps://i.imgur.com/ShkekK3.png)
+![](https://i.imgur.com/ShkekK3.png)
 
 ## [『BlooMoon Re;Done』 - Reedkussy ](https://drive.google.com/file/d/12uV9MFDR2JWv3TNjCmZqBuIQx5uAYv-o/view?usp=sharing)
 ![](https://i.imgur.com/vDV2Ikq.jpg)
