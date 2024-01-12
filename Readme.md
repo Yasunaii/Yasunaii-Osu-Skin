@@ -32,7 +32,3 @@
 
 ## [-         _CK_ Bacon boi 1.0 (cyperdark)](https://drive.google.com/file/d/1_l2id4HLlDdZ-D6Ms-QWDZNXdzRFzfbj/view?usp=sharing)
 [![Osu Skin image](https://i.imgur.com/h5GBHrp.jpeg)](https://drive.google.com/file/d/1_l2id4HLlDdZ-D6Ms-QWDZNXdzRFzfbj/view?usp=sharing)
-
-
-## [Lien youtubede la Oni korp](https://www.youtube.com/@ONI_KORP)
-[![Osu Skin image](https://i.imgur.com/KHpp77Q.png)](https://www.youtube.com/@ONI_KORP)
