@@ -10,7 +10,7 @@
 * [**Yasunaii Twitch**](https://www.twitch.tv/yasunaii)
 
 
-**Si vous avez un problème avec le skin n'hésitez pas a envoyez un message sur mon discord (yasunaii)**
+**Si vous avez un problème avec les skins n'hésitez pas a envoyez un message sur mon discord (yasunaii)**
 
 ## [anny v1 [ML] (coolrmsil.com)](https://drive.google.com/file/d/1nWnATTVcmimFSZC0gKa4G_2UEq2DZ3uO/view?usp=sharing)
 [![Osu Skin image](https://i.imgur.com/wWop5IR.png)](https://drive.google.com/file/d/1nWnATTVcmimFSZC0gKa4G_2UEq2DZ3uO/view?usp=sharing)
