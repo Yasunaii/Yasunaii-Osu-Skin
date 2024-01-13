@@ -12,6 +12,9 @@
 
 **Si vous avez un problème avec les skins n'hésitez pas a envoyez un message sur mon discord (yasunaii)**
 
+## [IJN Yamashiro V2 (16-9) v2.0.0](https://drive.google.com/file/d/1d24vANQ-yhYzZNYUEQVsT_bPrDnoN0ir/view?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/2D9gBZS.png)](https://drive.google.com/file/d/1d24vANQ-yhYzZNYUEQVsT_bPrDnoN0ir/view?usp=sharing)
+
 ## [anny v1 [ML] (coolrmsil.com)](https://drive.google.com/file/d/1nWnATTVcmimFSZC0gKa4G_2UEq2DZ3uO/view?usp=sharing)
 [![Osu Skin image](https://i.imgur.com/wWop5IR.png)](https://drive.google.com/file/d/1nWnATTVcmimFSZC0gKa4G_2UEq2DZ3uO/view?usp=sharing)
 
