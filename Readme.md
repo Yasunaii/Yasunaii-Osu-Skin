@@ -24,6 +24,10 @@
 ## [ ___ Arknights Ch_en v3 (Inflique)](https://drive.google.com/file/d/1_J6n-mtnyiuA9QjPN88lgjDOYnWgahDv/view?usp=sharing)
 [![Osu Skin image](https://i.imgur.com/ShkekK3.png)](https://drive.google.com/file/d/1_J6n-mtnyiuA9QjPN88lgjDOYnWgahDv/view?usp=sharing)
 
+## [GMK Samurai RED/Blue](https://drive.google.com/drive/folders/1UHGjgBVgQT4-_bxZIwDnsDWLhadsho71?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/yqlFIfn.png)](https://drive.google.com/file/d/1jdmVI5gdq1rpCFM3eSYLwb6MIN1025Ut/view?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/h01HIY0.png)](https://drive.google.com/file/d/1k8OJpp2p4L6Rxs7oJ9ig1TFN7j5WzPPf/view?usp=sharing)
+
 ## [Moonshine 2.1 [NM] (moonstaar)](https://drive.google.com/file/d/14euhkvobCrhqYzV88zJbZSJSgyGnIHEx/view?usp=sharing)
 [![Osu Skin image](https://i.ppy.sh/dd32fb4632fc70ddcf5ae409f3ec1b15eb6c78de/68747470733a2f2f696d6775722d617263686976652e7070792e73682f784d576f57596a2e706e67)](https://drive.google.com/file/d/14euhkvobCrhqYzV88zJbZSJSgyGnIHEx/view?usp=sharing)
 
