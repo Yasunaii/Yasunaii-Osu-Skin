@@ -10,6 +10,8 @@ La Oni Korp est une structure esport dédiée à de nombreux jeux (Rocket League
 
 Dans ce repository, vous trouverez deux doccument sous format markdown qui regroupe individuellement les skins des joueurs osu! de notre structure, soit Yasunaii (moi) et Unisheep mon coéquipier. 
 
+Vous retrouverez également des skins troll fait pour nous nerf lorsque l'on joue avec des personne qui débute le jeux comme les autres membres de la structure ! On égalise le jeux par les skin et les modes ;) 
+
 ## Comment Utiliser les Skins
 
 La première étape est de choisir son skin. Vous pouvez vous référé au image présente sur les différent doccument ! 
@@ -22,6 +24,8 @@ Une fois télécharger la procédure peut changer en fonction de la version de v
 
 ### Liens vers les doccument readme.md 
 
-***[Cliquez soit ici, soit sur la liste des doccument au dessus pour accèdez au doccument readme contenant les skins utiliser par Yasunaii](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Yasunaii-Osu_Skin)***
+***[Cliquez soit ici, soit sur la liste des doccuments au dessus pour accèdez au doccument markdown contenant les skins utiliser par Yasunaii](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Yasunaii-Osu_Skin)***
 
-***[Cliquez soit ici, soit sur la liste des doccument au dessus pour accèdez au doccument readme contenant les skins utiliser par Sheep](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Sheep-Osu_Skin.md)***
+***[Cliquez soit ici, soit sur la liste des doccuments au dessus pour accèdez au doccument markdown contenant les skins utiliser par Sheep](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Sheep-Osu_Skin.md)***
+
+***[Cliquez soit ici, soit sur la liste des doccuments au dessus pour accèdez au deoccument markdown contenant les skins utiliers pour nous nerf (Il sont horrible)](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/ForNerfOniKorp-Osu_skin)***
