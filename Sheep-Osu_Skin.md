@@ -1,8 +1,8 @@
 # Sheep Osu! Skin folder ! 
 
-**Ce doccument regroupe tous mes skin préfèrer. Ceux avec lequelle je me sens le plus a l'aise.**
+**Ce doccument markdown regroupe tous les skins préférer de Sheep. Il sont trié dans l'ordre de ses préférence.**
 
-**Étend donné que mes gouts et les dévouverte évolue ce readme sera amenez a évoluez !**
+**Étend donné que ses gouts et ses dévouvertes évolue ce doccument markdown sera amenez a évoluez !**
 
 
 * [**Oni korp Discord**](https://discord.gg/4QqVaTfXy2)
