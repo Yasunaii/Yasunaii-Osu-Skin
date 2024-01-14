@@ -35,7 +35,7 @@ Sheep Osu! Skin folder !
 [![Osu Skin image](https://skimg.osuck.net/e75a9c527198ea46cb5baf6648e11b23.webp)](https://drive.google.com/file/d/1npRQ591rMPQaUyM0l8P9seLOG3CEl4CI/view?usp=sharing)
 
 ## [- Violet Evergarden](https://drive.google.com/file/d/1VQt7WcuUBsfRiNq1tj_Nbjv1C5VznFto/view?usp=sharing)
-[![Osu Skin image](https://i.imgur.com/a9jOKhX.png)](https://drive.google.com/file/d/1VQt7WcuUBsfRiNq1tj_Nbjv1C5VznFto/view?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/xN40QEB.png)](https://drive.google.com/file/d/1VQt7WcuUBsfRiNq1tj_Nbjv1C5VznFto/view?usp=sharing)
 
 ## [#_Zero Neverland_#](https://drive.google.com/file/d/1fRQVoMXpvG2fPZms0U4QIG2RY_48lcRY/view?usp=sharing)
 [![Osu Skin image](https://skins.osuck.net/skins/1412?v=0)](https://drive.google.com/file/d/1fRQVoMXpvG2fPZms0U4QIG2RY_48lcRY/view?usp=sharing)
