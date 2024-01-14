@@ -11,7 +11,7 @@ Sheep Osu! Skin folder !
 
 
 ## [Sayu Ogiwara by oreoz](https://drive.google.com/file/d/1sA16Zf5i3aOcjlg2RYjZiCgkv1SLg7i_/view?usp=sharing)
-[![Osu Skin image](https://i.imgur.com/j02e3XM.jpeg)](https://drive.google.com/file/d/1sA16Zf5i3aOcjlg2RYjZiCgkv1SLg7i_/view?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/TfsvINu.png)](https://drive.google.com/file/d/1sA16Zf5i3aOcjlg2RYjZiCgkv1SLg7i_/view?usp=sharing)
 
 ## [〉 NumXVII ┐](https://drive.google.com/file/d/1J7Tm-0BzTTzNAPSHt7-fCbLueTayt5AM/view?usp=sharing)
 [![Osu skin image](https://i.imgur.com/YeURG8C.png)](https://drive.google.com/file/d/1J7Tm-0BzTTzNAPSHt7-fCbLueTayt5AM/view?usp=sharing)
