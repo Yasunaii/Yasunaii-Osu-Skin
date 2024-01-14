@@ -18,3 +18,10 @@ Une fois télécharger la procédure peut changer en fonction de la version de v
 - Si vous jouer sur osu! stable il suffit de double cliquer sur le fichiers ce qui l'importera dans votre jeux ! 
 - Si vous avez Osu! Lazer ( La prochaine mise à jour majeur) vous devez le glisser déposé dans la fenetre du jeux ! 
 - Si vous possédez les deux version du jeux sur votre machine, faites l'installation sur osu! stable, puis sur Lazer vous avez juste a utilisez l'assistant d'installation et réimporter le nouveau skin ! 
+
+
+### Liens vers les doccument readme.md 
+
+***[Cliquez soit ici, soit sur la liste des doccument au dessus pour accèdez au doccument readme contenant les skins utiliser par Yasunaii](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Yasunaii-Osu_Skin)***
+
+***[Cliquez soit ici, soit sur la liste des doccument au dessus pour accèdez au doccument readme contenant les skins utiliser par Sheep](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Sheep-Osu_Skin.md)***
