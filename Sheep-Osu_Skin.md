@@ -17,7 +17,7 @@ Sheep Osu! Skin folder !
 [![Osu skin image](https://i.imgur.com/YeURG8C.png)](https://drive.google.com/file/d/1J7Tm-0BzTTzNAPSHt7-fCbLueTayt5AM/view?usp=sharing)
 
 ## [- 『BlooMoon』 - LITE](https://drive.google.com/file/d/1vUdkgmWMBzQ2mnYdio-D_AaA1s9urJOS/view?usp=sharing)
-[![Osu Skin image](https://imgur.com/a/GuJ63Ok)](https://drive.google.com/file/d/1vUdkgmWMBzQ2mnYdio-D_AaA1s9urJOS/view?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/FzSSI13.png)](https://drive.google.com/file/d/1vUdkgmWMBzQ2mnYdio-D_AaA1s9urJOS/view?usp=sharing)
 
 ## [KW-!Astolfo](https://drive.google.com/file/d/1K3nFSc2M99U4a-ScSWY5v8n6l0huKJ3q/view?usp=sharing)
 [![Osu Skin image](https://i.imgur.com/dBQq6YB.png)](https://drive.google.com/file/d/1K3nFSc2M99U4a-ScSWY5v8n6l0huKJ3q/view?usp=sharing)
