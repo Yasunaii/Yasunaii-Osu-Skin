@@ -38,5 +38,5 @@ Sheep Osu! Skin folder !
 [![Osu Skin image](https://i.imgur.com/a9jOKhX.png)](https://drive.google.com/file/d/1VQt7WcuUBsfRiNq1tj_Nbjv1C5VznFto/view?usp=sharing)
 
 ## [- @ SaberStrike 『DT』](https://drive.google.com/file/d/1898ppbT9CRmsGHsG0F36ckWpxFCO2YP9/view?usp=sharing)
-[![Osu Skin image](https://imgur.com/gallery/0gFfyel)](https://drive.google.com/file/d/1898ppbT9CRmsGHsG0F36ckWpxFCO2YP9/view?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/JUb5WF5.jpeg)](https://drive.google.com/file/d/1898ppbT9CRmsGHsG0F36ckWpxFCO2YP9/view?usp=sharing)
 
