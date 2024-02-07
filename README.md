@@ -24,6 +24,6 @@ Une fois télécharger la procédure peut changer en fonction de la version de v
 
 ## Liens vers les doccument readme.md 
 
-***[Cliquez soit ici, soit sur la liste des doccuments au dessus pour accèdez au doccument markdown contenant les skins utiliser par Yasunaii](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Yasunaii-Osu_Skin)***
+***[Cliquez soit ici, soit sur la liste des doccuments au dessus pour accèdez au doccument markdown contenant les skins utiliser par Yasunaii]([https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Yasunaii-Osu_Skin](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Yasunaii-Osu_Skin.md))***
 
 ***[Cliquez soit ici, soit sur la liste des doccuments au dessus pour accèdez au doccument markdown contenant les skins utiliser par Sheep](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Sheep-Osu_Skin.md)***
