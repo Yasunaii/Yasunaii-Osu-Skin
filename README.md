@@ -1,26 +1,17 @@
-# Oni Korp Osu! Skin Folder
+# Osu! Skin Folder
 
-Bienvenue dans le repository "Oni Korp Osu! Skin Folder". Ce projet a été créé par Yasunaii pour rassembler et partager les skins utilisés par les joueurs de la structure esport "Oni Korp" dans le jeu Osu!.
-
-## À propos de la Oni Korp
-
-La Oni Korp est une structure esport dédiée à de nombreux jeux (Rocket League, League of legends, valorant) mais pour vous surtout Osu! . Les joueurs osu! de cette organisation utilisent différents skins dans le jeu Osu! 
+Bienvenue dans le repository "Osu! Skin Folder". Ce projet a été créé par Yasunaii pour rassembler ces skins et ceux de ses amis.
 
 ## Contenu du Repository
 
-Dans ce repository, vous trouverez deux doccument sous format markdown qui regroupe individuellement les skins des joueurs osu! de notre structure, soit Yasunaii (moi) et Unisheep mon coéquipier. 
-
-Vous retrouverez également des skins troll fait pour nous nerf lorsque l'on joue avec des personne qui débute le jeux comme les autres membres de la structure ! On égalise le jeux par les skin et les modes ;) 
+Dans ce repository, vous trouverez deux doccument sous format markdown qui regroupe individuellement les skins de Yasunaii (moi) et Unisheep. 
 
 ## Comment Utiliser les Skins
 
 La première étape est de choisir son skin. Vous pouvez vous référé au image présente sur les différent doccument ! 
 Les liens et les images sont des liens, cliquez simplement dessus pour être rediriger vers un lien google drive et télécharger le skin choisi.
 Une fois télécharger la procédure peut changer en fonction de la version de votre jeux : 
-- Si vous jouer sur osu! stable il suffit de double cliquer sur le fichiers ce qui l'importera dans votre jeux ! 
-- Si vous avez Osu! Lazer ( La prochaine mise à jour majeur) vous devez le glisser déposé dans la fenetre du jeux ! 
-- Si vous possédez les deux version du jeux sur votre machine, faites l'installation sur osu! stable, puis sur Lazer vous avez juste a utilisez l'assistant d'installation et réimporter le nouveau skin ! 
-
+- Que sa soit Osu! Lazer, ou stable vous pouvez soit cliquez sur les fichier .osk, mais vous ne serais pas sûr de quelles version décompressera le skin, donc je vous conseils de glisser-déposer dans la version souhaiter.
 
 ## Liens vers les doccument readme.md 
 
