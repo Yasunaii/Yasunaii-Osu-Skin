@@ -4,12 +4,6 @@
 
 **Étend donné que mes gouts et mes dévouvertes évolue ce doccument markdown sera amenez a évoluez !**
 
-
-* [**Oni korp Discord**](https://discord.gg/4QqVaTfXy2)
-* [**Oni Korp Twitch**](https://https://www.twitch.tv/oni_korp)
-* [**Yasunaii Twitch**](https://www.twitch.tv/yasunaii)
-
-
 **Si vous avez un problème avec les skins n'hésitez pas a envoyez un message sur mon discord (yasunaii)**
 
 ## [IJN Yamashiro V2 (16-9) v2.0.0](https://drive.google.com/file/d/1d24vANQ-yhYzZNYUEQVsT_bPrDnoN0ir/view?usp=sharing)
