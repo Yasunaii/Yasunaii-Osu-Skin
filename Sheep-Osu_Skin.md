@@ -4,9 +4,7 @@
 
 **Étend donné que ses gouts et ses dévouvertes évolue ce doccument markdown sera amenez a évoluez !**
 
-
-* [**Oni korp Discord**](https://discord.gg/4QqVaTfXy2)
-* [**Oni Korp Twitch**](https://https://www.twitch.tv/oni_korp)
+## Chaine Twitch : 
 * [**UniSheep Twitch**](https://www.twitch.tv/el_sheepinator)
 
 
