@@ -30,8 +30,8 @@ Les deux site cité au dessus sont mes préféré mais il existe aussi ceux-ci :
 - https://osuskins.net/
 
 D'autre skins moins officialisé existe, il peuvent être soit plus privé et ne pas avoir de poste forum ou bien ne pas être encore terminé.
-Pour voir la liste des skins en cours de création il faut se rendre sur le forum osu : https://osu.ppy.sh/community/forums/119
-Certains skins sont des mélange de plusieurs autre skins, ces création remixé ne sont clairement pas mes préféré mais il pourront peut-être vous convaincre : https://osu.ppy.sh/community/forums/124
-Vous pouvez aussi vous référez au reddit OsusSkins : https://www.reddit.com/r/OsuSkins/
+- Pour voir la liste des skins en cours de création il faut se rendre sur le forum osu : https://osu.ppy.sh/community/forums/119
+- Certains skins sont des mélange de plusieurs autre skins, ces création remixé ne sont clairement pas mes préféré mais il pourront peut-être vous convaincre : https://osu.ppy.sh/community/forums/124
+- Vous pouvez aussi vous référez au reddit OsusSkins : https://www.reddit.com/r/OsuSkins/
 
 Je vous est donner les plus gros site de skins maintenant vous êtes désormais prêt a vous équiper est partir cliquez sur ces vagues de cercle infernaux !
