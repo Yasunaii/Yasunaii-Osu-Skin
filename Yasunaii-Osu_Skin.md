@@ -6,8 +6,7 @@
 
 **Si vous avez un problème avec les skins n'hésitez pas a envoyez un message sur mon discord (yasunaii)**
 
-## [Wintherest - v21022023 (Redo_)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing)
-### [Lien vers le forum en cliquant sur ce message](https://osu.ppy.sh/community/forums/topics/1498493?n=1)
+## [Wintherest - v21022023 (Redo_)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing) ( [Lien vers le forum en cliquant sur ce message](https://osu.ppy.sh/community/forums/topics/1498493?n=1) )
 [![Osu Skin image](https://i.imgur.com/2MeCsn2.png)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing)
 
 ## [ XooMoon Long Blue Trail](https://drive.google.com/file/d/1Aa7nkG-uYMc3IJAdBwpnoeGJiqmmbexg/view?usp=sharing)
