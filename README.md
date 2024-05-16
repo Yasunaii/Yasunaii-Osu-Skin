@@ -26,8 +26,8 @@ Vous voulez avoir un accès a tous les skins terminé par leurs créateur vous a
 - Compendium regroupe les même site mais dans un site un peu plus esthétique est compréhensible pour tous : https://compendium.skinship.xyz/
 
 Les deux site cité au dessus sont mes préféré mais il existe aussi ceux-ci :
--https://skins.osuck.net/fr 
--https://osuskins.net/
+- https://skins.osuck.net/fr 
+- https://osuskins.net/
 
 D'autre skins moins officialisé existe, il peuvent être soit plus privé et ne pas avoir de poste forum ou bien ne pas être encore terminé.
 Pour voir la liste des skins en cours de création il faut se rendre sur le forum osu : https://osu.ppy.sh/community/forums/119
