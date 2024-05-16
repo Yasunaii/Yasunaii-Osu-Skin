@@ -1,8 +1,6 @@
 # Sheep Osu! Skin folder ! 
 
-**Ce doccument markdown regroupe tous les skins préférer de Sheep. Il sont trié dans l'ordre de ses préférence.**
-
-**Étend donné que ses gouts et ses dévouvertes évolue ce doccument markdown sera amenez a évoluez !**
+**Ce panel regroupe tous les skins favoris de Sheepi**
 
 ## Chaine Twitch : 
 * [**UniSheep Twitch**](https://www.twitch.tv/el_sheepinator)
