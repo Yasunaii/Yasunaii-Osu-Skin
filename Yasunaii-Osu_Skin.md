@@ -8,7 +8,7 @@
 
 ## [Wintherest - v21022023 (Redo_)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing)
 ### [Lien vers le forum en cliquant sur ce message](https://osu.ppy.sh/community/forums/topics/1498493?n=1)
-[![Osu Skin image](https://i.imgur.com/2D9gBZS.png)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/2MeCsn2.png)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing)
 
 ## [IJN Yamashiro V2 (16-9) v2.0.0](https://drive.google.com/file/d/1d24vANQ-yhYzZNYUEQVsT_bPrDnoN0ir/view?usp=sharing)
 [![Osu Skin image](https://i.imgur.com/2D9gBZS.png)](https://drive.google.com/file/d/1d24vANQ-yhYzZNYUEQVsT_bPrDnoN0ir/view?usp=sharing)
