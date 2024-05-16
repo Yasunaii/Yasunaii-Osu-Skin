@@ -34,4 +34,4 @@
 [![Osu Skin image](https://i.ppy.sh/fcdae8736b79d3dd7d3739801def05f3207f9586/68747470733a2f2f696d6775722d617263686976652e7070792e73682f646652394646422e706e67)](https://drive.google.com/file/d/162TcztbnnkFDQEIwSQd-7Uq6WdmfkSJw/view?usp=sharing)
 
 ## [-  _CK_ Bacon boi 1.0 (cyperdark)](https://drive.google.com/file/d/1RsKkZVeJNqTgx84ryrzVkxo1ronjOFZ0/view?usp=sharing)
-[![Osu Skin image](https://drive.google.com/file/d/1RsKkZVeJNqTgx84ryrzVkxo1ronjOFZ0/view?usp=sharing)
+[![Osu Skin image](https://i.imgur.com/h5GBHrp.jpeg)(https://drive.google.com/file/d/1RsKkZVeJNqTgx84ryrzVkxo1ronjOFZ0/view?usp=sharing)
