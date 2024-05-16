@@ -15,9 +15,9 @@ Une fois télécharger il suffira de double cliquer sur le ficher .osk ou alors 
 
 ## Liens vers les doccument readme.md 
 
-***[- Liens vers la liste de skins utilisé par Yasunaii !](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Yasunaii-Osu_Skin.md)***
+- ***[Liens vers la liste de skins utilisé par Yasunaii !](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Yasunaii-Osu_Skin.md)***
 
-***[- Liens vers la liste de skins utilisé par Unisheep !](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Sheep-Osu_Skin.md)***
+- ***[Liens vers la liste de skins utilisé par Unisheep !](https://github.com/Yasunaii/Oni_Korp-osu-skin-folder/blob/main/Sheep-Osu_Skin.md)***
 
 ## Ou trouver ses skins soient même : 
 
