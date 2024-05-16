@@ -1,10 +1,8 @@
 # Yasunaii Osu!(Lazer) Skin folder ! 
 
-**Ce doccument regroupe tous mes skin préfèrer. Ceux avec lequelle je me sens le plus a l'aise. Il sont trié dans l'ordre de mes préférence et de mes découverte bien souvent.**
-
-**Étend donné que mes gouts et mes dévouvertes évolue ce doccument markdown sera amenez a évoluez !**
-
-**Si vous avez un problème avec les skins n'hésitez pas a envoyez un message sur mon discord (yasunaii)**
+**La plus part de mes skins sont modifié avec une interface personalisé sur la version Lazer de Osu!**
+**C'est la liste des skins que j'ai le plus utilisé dans mon histoire Osu!**
+**Je n'utilise plus certains skins comme le Bacon de Vaxei**
 
 ## [Wintherest - v21022023 (Redo_)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing) ([Lien vers le forum en cliquant sur ce message](https://osu.ppy.sh/community/forums/topics/1498493?n=1))
 [![Osu Skin image](https://i.imgur.com/2MeCsn2.png)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing)
