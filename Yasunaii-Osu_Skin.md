@@ -10,7 +10,7 @@
 ### [Lien vers le forum en cliquant sur ce message](https://osu.ppy.sh/community/forums/topics/1498493?n=1)
 [![Osu Skin image](https://i.imgur.com/2MeCsn2.png)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing)
 
-## [[- _XooMoon_ - Long Blue Trail] (Redo_)](https://drive.google.com/file/d/1NHhTEi_KQpeENgGRK1ZRQGOtkO2IO155/view?usp=sharing](https://drive.google.com/file/d/1Aa7nkG-uYMc3IJAdBwpnoeGJiqmmbexg/view?usp=sharing)
+## [ XooMoon Long Blue Trail](https://drive.google.com/file/d/1NHhTEi_KQpeENgGRK1ZRQGOtkO2IO155/view?usp=sharing)(https://drive.google.com/file/d/1Aa7nkG-uYMc3IJAdBwpnoeGJiqmmbexg/view?usp=sharing)
 [![Osu Skin image](https://i.imgur.com/4kEaBYk.png))]([https://drive.google.com/file/d/1NHhTEi_KQpeENgGRK1ZRQGOtkO2IO155/view?usp=sharing](https://drive.google.com/file/d/1Aa7nkG-uYMc3IJAdBwpnoeGJiqmmbexg/view?usp=sharing))
 
 ## [IJN Yamashiro V2 (16-9) v2.0.0](https://drive.google.com/file/d/1XigeCz7kcSG3IqkbevRcT6SmrILhDwts/view?usp=sharing)
