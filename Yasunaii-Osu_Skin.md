@@ -4,6 +4,9 @@
 **C'est la liste des skins que j'ai le plus utilisé dans mon histoire Osu!**
 **Je n'utilise plus certains skins comme le Bacon de Vaxei**
 
+## [anzt11w V3 - てんてこ](https://drive.google.com/file/d/1KdYi0vG-WFkc3NN6qHRmg0h5qauSzlMa/view?usp=sharing) ([Lien vers le forum en cliquant sur ce message](https://osu.ppy.sh/community/forums/topics/1948897?n=1))
+[![Osu Skin image](https://i.imgur.com/bdpHSB5.jpeg)](https://drive.google.com/file/d/1KdYi0vG-WFkc3NN6qHRmg0h5qauSzlMa/view?usp=sharing)
+
 ## [Wintherest - v21022023 (Redo_)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing) ([Lien vers le forum en cliquant sur ce message](https://osu.ppy.sh/community/forums/topics/1498493?n=1))
 [![Osu Skin image](https://i.imgur.com/2MeCsn2.png)](https://drive.google.com/file/d/1HjdBghbjo1DSB1XUubiUMZ-ZGocfVCv4/view?usp=sharing)
 
