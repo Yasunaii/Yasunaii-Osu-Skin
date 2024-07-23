@@ -1,4 +1,4 @@
-# Yasunaii Osu!(Lazer) Skin folder ! 
+# Yasunaii Osu! Skin folder ! 
 
 **La plus part de mes skins sont modifié avec une interface personalisé sur la version Lazer de Osu!**
 **C'est la liste des skins que j'ai le plus utilisé dans mon histoire Osu!**
