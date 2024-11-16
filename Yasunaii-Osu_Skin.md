@@ -2,7 +2,10 @@
 
 **La plus part de mes skins sont modifié avec une interface personalisé sur la version Lazer de Osu!**
 **C'est la liste des skins que j'ai le plus utilisé dans mon histoire Osu!**
-**Je n'utilise plus certains skins comme le Bacon de Vaxei**
+
+**Bonus mon fichier collection.db :** 
+[Vous pouvez ainsi mettre mes collection sur votre jeux cliquez ici pour le télécharger ! ](https://drive.google.com/file/d/1mpu9S6gve6BvYjvIKwRbd2BKotrnl-YO/view?usp=sharing)
+Vous pouvez aussi la consulter ici : https://wysi727.com/users/14062291
 
 ## [anzt11w V3 - てんてこ](https://drive.google.com/file/d/1KdYi0vG-WFkc3NN6qHRmg0h5qauSzlMa/view?usp=sharing) ([Lien vers le forum en cliquant sur ce message](https://osu.ppy.sh/community/forums/topics/1948897?n=1))
 [![Osu Skin image](https://i.imgur.com/bdpHSB5.jpeg)](https://drive.google.com/file/d/1KdYi0vG-WFkc3NN6qHRmg0h5qauSzlMa/view?usp=sharing)
